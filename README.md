@@ -1,6 +1,6 @@
 # Solutions to Schrödinger's equation by numerical integration
 
-LINK TO FINAL REPORT
+[LINK TO FINAL REPORT](https://github.com/calumholker/schrodinger/blob/f24ef991d7f7373f8a133b3666328fc5fee156c8/Report/CO22.pdf)
 
 ## Abstract
 
